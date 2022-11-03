@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T05:22:53.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="A_z2tJphg61gsIiuQDZr" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T05:24:15.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DMsvzmHZ_ejb20595yr0" version="20.5.1" type="github">
   <diagram id="qlSu_hCytlXmXeY36GiM" name="Página-1">
-    <mxGraphModel dx="1301" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1392" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,12 @@
           <mxGeometry x="110" y="450" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Csu2EXhS7KZmmG47xOdv-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Csu2EXhS7KZmmG47xOdv-10" target="Csu2EXhS7KZmmG47xOdv-50">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="700" />
+              <mxPoint x="400" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Csu2EXhS7KZmmG47xOdv-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;auto&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="620" width="120" height="40" as="geometry" />
@@ -152,7 +157,25 @@
           <mxGeometry x="110" y="680" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Csu2EXhS7KZmmG47xOdv-50" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;marca&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="730" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Csu2EXhS7KZmmG47xOdv-57" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="730" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Csu2EXhS7KZmmG47xOdv-58" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="740" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Csu2EXhS7KZmmG47xOdv-59" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="750" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Csu2EXhS7KZmmG47xOdv-60" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="760" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Csu2EXhS7KZmmG47xOdv-61" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="770" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Csu2EXhS7KZmmG47xOdv-62" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;modelo&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="770" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
